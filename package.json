@@ -1,7 +1,7 @@
 {
     "name": "Nomeria-Launcher",
     "preductname": "Nomeria Launcher",
-    "version": "1.2.7",
+    "version": "1.2.8",
     "description": "Nomeria Launcher",
     "main": "src/app.js",
     "author": "Maxime",
