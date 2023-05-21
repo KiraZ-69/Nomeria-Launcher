@@ -12,20 +12,29 @@
         <div class="card-body">
             <small class="info-login">&nbsp;</small>
 
+
+            <style>
+                .login-card-mojang-input input.Password {
+                    display: none;
+                }
+            </style>
+            
             <div class="login-card-mojang-input">
-                <label>Adresse mail</label>
-                <input type="text" class="Mail login-mojang-input" spellcheck="false">
+                <label for="pseudo">Pseudo</label>
+                <input type="text" id="pseudo" class="Mail login-mojang-input" spellcheck="false">
                 <small class="error-mail">&nbsp;</small>
             </div>
-
+            
             <div class="login-card-mojang-input">
-                <label>Mot de passe</label>
-                <input type="password" class="Password login-mojang-input" spellcheck="false">
+                <input type="password" id="password" class="Password login-mojang-input" spellcheck="false">
                 <small class="error-password">&nbsp;</small>
             </div>
+            
+            
+            
+            
 
             <div class="login-options">
-                <span class="password-reset">Mot de passe oublié ?</span>
                 <div class="btn-option-login">
                     <button class="login-btn">Connexion</button>
                     <button class="cancel cancel-mojang">Annuler</button>

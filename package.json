@@ -1,11 +1,11 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
+    "name": "Nomeria-Launcher",
+    "preductname": "Nomeria Launcher",
     "version": "1.2.6",
-    "description": "Launcher Mincraft custom (crack, premium)",
+    "description": "Nomeria Launcher",
     "main": "src/app.js",
-    "author": "Luuxis",
-    "url": "http://craftdium.ml/launcherSelvania",
+    "author": "Maxime",
+    "url": "http://195.14.105.157/launcher",
     "engines": {
         "node": "^18.x.x"
     },
