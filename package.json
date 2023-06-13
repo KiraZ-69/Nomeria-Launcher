@@ -5,7 +5,7 @@
     "description": "Nomeria Launcher",
     "main": "src/app.js",
     "author": "Maxime",
-    "url": "http://185.143.241.106/launcher",
+    "url": "https://maxime-lscr.me/launcher",
     "engines": {
         "node": "^18.x.x"
     },
